@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skills\01\AutoDestroy_AnimFinished.cs">
+    <Files>
+      <File FileName="Assets\CharacterScripts\PlayerIntel.cs" Line="4" Column="43" />
+      <File FileName="Assets\CharacterScripts\LifeSystem.cs" Line="32" Column="7" />
+      <File FileName="Assets\Character_01\example\demo\scripts\DemoScene.cs" Line="108" Column="6" />
+      <File FileName="Assets\Character_01\example\demo\scripts\Skillset.cs" Line="22" Column="37" />
+      <File FileName="Assets\Skills\01\AutoDestroy_AnimFinished.cs" Line="15" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Character_01" expanded="True">
+              <Node name="example" expanded="True">
+                <Node name="demo" expanded="True">
+                  <Node name="scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="CharacterScripts" expanded="True" />
+            <Node name="Skills" expanded="True">
+              <Node name="01" expanded="True">
+                <Node name="AutoDestroy_AnimFinished.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
